@@ -1,0 +1,1 @@
+File này chứa các service. Mỗi service được gói trong một class cùng những hàm liên quan. Nếu cần sử dụng model, call model từ src/models/

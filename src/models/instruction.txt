@@ -1,0 +1,1 @@
+File này chứa các class model. Mỗi model được gói trong 1 class cùng những function basic của nó
